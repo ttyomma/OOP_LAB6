@@ -7,4 +7,5 @@
 Анімована кнопка ''Об'єднати'' збільшенням.
 
 Компіляція програми та її вигляд:<br/>
-![image](https://github.com/user-attachments/assets/aab53d74-2dd5-4a2c-a35a-c86a16ebf20f)
+![image](https://github.com/user-attachments/assets/eb418b5c-1405-4a3e-ab73-88c7b17acafc)
+
